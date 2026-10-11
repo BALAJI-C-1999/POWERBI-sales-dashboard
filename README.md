@@ -38,5 +38,3 @@ The dataset was prepared for analysis by checking data quality, correcting data 
 3. Refresh the data source path if required.
 4. Explore the report using the filters and visuals.
 
-## Data Source
-Add the original dataset source and license information here.
